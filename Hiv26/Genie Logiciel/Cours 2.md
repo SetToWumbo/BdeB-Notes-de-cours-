@@ -34,4 +34,10 @@ Maintenance adaptative: Apporter améliorations des fonctions du logiciel
 	- Le processus de fabrication lui-même du produit est évalué
 	- Est-ce qu'on a agit dans le meilleur intérêt de notre client
 	- Est-ce qu'on a bien travaillé professionnellement envers notre client
-- 
+### Problèmes avec le modèle cascade: 
+Toutes les étapes avant le déploiement ne sont pas linéaires. Il peut y avoir des retours en arrière pour corriger des erreurs de test, de construction, de conception, de compréhension des besoins etc..
+Les besoins du client peuvent aussi évoluer, changer, etc..
+Réalité du domaine d'affaires du client peut aussi changer, évoluer et le logiciel doit se conformer à cette nouvelle réalité
+
+
+
