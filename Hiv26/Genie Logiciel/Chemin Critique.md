@@ -1,0 +1,1 @@
+Ensemble des tâches qui, si l'une ou l'autre prend du retard, repousse le temps de livraison du projet

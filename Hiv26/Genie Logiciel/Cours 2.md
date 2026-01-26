@@ -40,4 +40,17 @@ Les besoins du client peuvent aussi évoluer, changer, etc..
 Réalité du domaine d'affaires du client peut aussi changer, évoluer et le logiciel doit se conformer à cette nouvelle réalité
 
 
+#### Gestion de projet
+
+#### WBS(Work Breakdown Structure) - Décomposition du travail
+
+Comment prendre un projet et le séparer en lots de travail qui seront situés dans le temps, selon ressources, objectifs, tendances
+
+On peut utiliser [[Diagramme de Gantt]]
+On s'intéresse au [[Chemin Critique]]
+[[Estimation]]
+[[Risques]]
+
+
+
 

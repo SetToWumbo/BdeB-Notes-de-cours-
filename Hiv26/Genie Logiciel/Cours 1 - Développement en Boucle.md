@@ -10,6 +10,9 @@ Permet de garder les utilisateurs ou le client impliqué dans le développement 
 C'est aussi **Incrémental** : produit qui grossit à chaque itération
 
 On peut être itératif sans être incrémental, mais on ne peut pas être incrémental sans être itératif.
+Exemple: RUP -> Rational Unified Process
+Divise chaque phase du processus de création logiciel en plusieurs itérations pour raffiner chaque phase individuelle.
+Problème: coute cher, produit documentation large et dure à implémenter
 
 Itération est centrale pour sortir du waterfall, et est incontournable dans l'approche AGILE.
 
