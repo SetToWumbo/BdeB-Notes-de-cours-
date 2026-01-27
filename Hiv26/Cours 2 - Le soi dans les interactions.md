@@ -99,3 +99,63 @@ Estime et Confiance sont reliées: plus on démontre nos capacités, plus la con
 	- Pensée négative(échoué)
 # Émergence du concept de soi
 
+**Quels facteurs peuvent influencer notre concept de soi?**
+#### [[Jugement Réfléchi]]
+#### [[Comparaison Sociale]]
+
+## Gestion de l'Identité
+
+peut être consciente ou inconsciente
+
+**conscient**: modification consciente de comment on se présente physiquement ou son comportement dans une situation. Gestion de ce qui se présente en ligne
+
+**inconsciemment**: rencontre d'une nouvelle personne, comporte de manière plus chaleureuse ou joviale pour être bien perçu
+
+**Construction identité multiples:** Est pas nécéssairement exactement la même personne selon le contexte ou les gens avec qui on est.
+- Fait partie des habiletés de communication: préférable ou pas de mettre de l'avant certaines facettes de notre personnalité selon le contexte
+- Attention au mensonge, rester fidèle à soi-même
+
+##### Possible de gérer identité de 3 manières:
+- Manière de communiquer(verbal, non verbal)
+- Apparence physique
+- Contexte(objets, environnement: faire le ménage lors de visite des invités)
+
+**Pourquoi:**
+- établir relations
+- atteindre un but
+- explorer autres dimensions de soi
+
+#### Ouverture de soi
+
+Processus consiste à dévoiler délibérément infos sur soi
+- plus on est engagé dans une relation, plus tendance à s'ouvrir
+
+Deux dimensions:
+
+- Étendue: éventail des sujets abordés, infos divulguées
+- Profondeur: qualité des infos divulguées en terme de personnalisation
+
+**Avantages de s'ouvrir aux autres:**
+- Création ou maintien de relations sociales
+- Trouver points en commun avec autres
+- Diminution de stress, poids
+- Approfondissement des idées
+- Approbation, reconnaissance
+
+**Désavantages:**
+- Mauvaises intentions de l'autre
+- Impression négative(Malentendus, conflits)
+- Rejet
+- Dépasser les limites du cadre de travail
+
+Il est très difficile de développer relation interpersonnelle à long terme avec qqun sans ouverture de soi
+
+Garder silence sur soi c'est demeurer étranger aux autres
+Communication == processus intéractif
+
+Fenêtre de Johari:
+- Matrice permettant d'analyser la façon dont on donne et reçoit information vis-à-vis nous même
+- permet d'acquérir une meilleure connaissance de soi et de gagner en authenticité
+- Soi inconscient: partie de nous en soi qu'on ne connaît pas encore. On la découvre en essayant des nouvelles choses
+
+Dans un milieu de travail, on améliore le passage du soi aveugle au soi public en demandant beaucoup de feedback!
