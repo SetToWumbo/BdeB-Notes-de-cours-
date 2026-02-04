@@ -15,4 +15,4 @@ Conséquence négative: trop souvent ou avec de mauvaises intentions: favorise e
 Conséquence positive: Avec bonnes intentions - tendance à actualisation de soi (aspirationnel, amélioration de soi)
 Conséquence négative: baisse de l'estime de soi
 
-être conscient de nos comparaisons et de nos tendances nous permet de pouvoir changer ou s'améliorerse
+être conscient de nos comparaisons et de nos tendances nous permet de pouvoir changer ou s'améliorer

@@ -1,4 +1,3 @@
-
 # recap: développement cascade
 
 1. pre-developpement:

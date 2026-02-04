@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2 - Le soi dans les interactions.md",
+                "file": "Psycho et Comm/Cours 2 - Le soi dans les interactions.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "72e9896646a13f19",
@@ -186,16 +185,20 @@
   },
   "active": "4091a607c9f3d1e1",
   "lastOpenFiles": [
-    "Comparaison Sociale.md",
-    "Jugement Réfléchi.md",
-    "Cours 2 - Le soi dans les interactions.md",
     "Psycho et Comm/Cours 1 - 20 Jan.md",
-    "Risques.md",
-    "Genie Logiciel/Estimation.md",
+    "Psycho et Comm/Cours 2 - Le soi dans les interactions.md",
+    "Psycho et Comm/Jugement Réfléchi.md",
+    "Psycho et Comm/Comparaison Sociale.md",
+    "Genie Logiciel/note title 1.md",
+    "Untitled.md",
     "Genie Logiciel/Cours 2.md",
+    "Genie Logiciel/Cours 3 - Estimation par point de fonction.md",
+    "Genie Logiciel/Diagramme de Gantt.md",
+    "notes",
+    "Genie Logiciel/Risques.md",
+    "Genie Logiciel/Estimation.md",
     "Genie Logiciel/Cours 1 - Développement en Boucle.md",
     "Genie Logiciel/Chemin Critique.md",
-    "Diagramme de Gantt.md",
     "Applications Web Transac/Archi n tiers.md",
     "Applications Web Transac/Analyse prelim.md",
     "Applications Web Transac",
@@ -209,7 +212,6 @@
     "Appli-Web-Transac/Equipe-4-Projet-Session/Analyse_Prelim",
     "Appli-Web-Transac/Equipe-4-Projet-Session",
     "Appli-Web-Transac",
-    "Transac",
-    "Web"
+    "Transac"
   ]
 }
