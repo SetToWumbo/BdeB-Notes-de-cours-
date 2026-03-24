@@ -8,16 +8,25 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "351c6e98693bdadc",
+=======
+            "id": "4091a607c9f3d1e1",
+>>>>>>> 0178a0bace1765b4e101e3b07b2869f8d43f3942
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Genie Logiciel/UML.md",
+=======
+                "file": "Psycho et Comm/Cours 2 - Le soi dans les interactions.md",
+>>>>>>> 0178a0bace1765b4e101e3b07b2869f8d43f3942
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "UML"
             }
           },
@@ -51,6 +60,12 @@
           }
         ],
         "currentTab": 2
+=======
+              "title": "Cours 2 - Le soi dans les interactions"
+            }
+          }
+        ]
+>>>>>>> 0178a0bace1765b4e101e3b07b2869f8d43f3942
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "72e9896646a13f19",
@@ -212,6 +227,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "60835a66ee0fe0ec",
   "lastOpenFiles": [
     "Genie Logiciel/Deuxième Livrable projet session.md",
@@ -239,5 +255,37 @@
     "Genie Logiciel",
     "Genie Logiciel",
     "Psycho et Comm"
+=======
+  "active": "4091a607c9f3d1e1",
+  "lastOpenFiles": [
+    "Psycho et Comm/Cours 1 - 20 Jan.md",
+    "Psycho et Comm/Cours 2 - Le soi dans les interactions.md",
+    "Psycho et Comm/Jugement Réfléchi.md",
+    "Psycho et Comm/Comparaison Sociale.md",
+    "Genie Logiciel/note title 1.md",
+    "Untitled.md",
+    "Genie Logiciel/Cours 2.md",
+    "Genie Logiciel/Cours 3 - Estimation par point de fonction.md",
+    "Genie Logiciel/Diagramme de Gantt.md",
+    "notes",
+    "Genie Logiciel/Risques.md",
+    "Genie Logiciel/Estimation.md",
+    "Genie Logiciel/Cours 1 - Développement en Boucle.md",
+    "Genie Logiciel/Chemin Critique.md",
+    "Applications Web Transac/Archi n tiers.md",
+    "Applications Web Transac/Analyse prelim.md",
+    "Applications Web Transac",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/docs/Analyse_Prelim/Propos client initial.md",
+    "Psycho et Comm/untitled folder",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/docs/Analyse_Prelim/Analye_Preliminaire.md",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/src",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/docs/Analyse_Prelim",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/docs",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/Analyse_Prelim/Analye_Preliminaire.md",
+    "Appli-Web-Transac/Equipe-4-Projet-Session/Analyse_Prelim",
+    "Appli-Web-Transac/Equipe-4-Projet-Session",
+    "Appli-Web-Transac",
+    "Transac"
+>>>>>>> 0178a0bace1765b4e101e3b07b2869f8d43f3942
   ]
 }
