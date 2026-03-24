@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiv26/Psycho et Comm/Cours 1 - 20 Jan.md",
+                "file": "Hiv26/Genie Logiciel/Examen1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 1 - 20 Jan"
+              "title": "Examen1"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "29589dbbab8a63e2",
   "lastOpenFiles": [
+    "Hiv26/Genie Logiciel/Faisabilité - 2.md",
+    "Hiv26/Genie Logiciel/Risques.md",
+    "Hiv26/Psycho et Comm/Cours 1 - 20 Jan.md",
     "Hiv26/Genie Logiciel/Chemin Critique.md",
     "Hiv26/Genie Logiciel/Estimation.md",
     "Hiv26/Genie Logiciel/3 - Développement en Boucle.md",
